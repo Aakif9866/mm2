@@ -1,0 +1,47 @@
+# Ignore Python virtual environments
+venv/
+env/
+.venv/
+
+# Ignore environment variable files
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# pycache folders anywhere
+**/__pycache__/# Ignore Python virtual environments
+venv/
+env/
+.venv/
+
+# Ignore environment variable files
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# pycache folders anywhere
+**/__pycache__/
